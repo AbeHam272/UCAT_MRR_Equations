@@ -1,4 +1,4 @@
-# UCAT_MRR_Equations
+# MRR Equations
 MATLAB implementation of the six coupled differential equations describing the nonlinear dynamics of a silicon microring resonator (MRR) for photonic reservoir computing.
 Based on: Giron Castro et al., Optics Express, Vol. 32, No. 2, January 2024. DOI: 10.1364/OE.509437
 
